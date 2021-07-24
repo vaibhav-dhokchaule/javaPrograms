@@ -1,2 +1,2 @@
 # javaPrograms
-core and advance java programs 
+java programs
